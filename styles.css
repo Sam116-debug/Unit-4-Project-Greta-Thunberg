@@ -1,0 +1,25 @@
+
+
+img {
+    width: 200px;   
+}
+.Pink{
+    Color:Pink;
+    }
+.headertext{
+    text-align:center;
+    display:block;}
+
+.p{
+    border-style: outset;}
+.Dotted{
+    border-style: dotted;
+    border-color:#99ccff;
+    margin:10px;
+    padding:10px;
+    text-align:center;
+    background-color: lightblue;
+    color:#ccffe6;}
+
+.div {
+    color:purple;}
